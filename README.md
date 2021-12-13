@@ -1,3 +1,4 @@
+# [Check out the Live Demo!](https://zombiebunny.github.io/riders-republic-trick-list/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,0 +1,361 @@
+
+[
+  {
+    "move": "Right Spin",
+    "Pc": "Left + Right",
+    "Playstation": "Square + Circle",
+    "Xbox": "X + B"
+  },
+  {
+    "move": "Left Spin",
+    "Pc": "Right + Left",
+    "Playstation": "Circle + Square",
+    "Xbox": "B + X"
+  },
+  {
+    "move": "Front Flip",
+    "Pc": "Down + Up",
+    "Playstation": "X + Triangle",
+    "Xbox": "A + Y"
+  },
+  {
+    "move": "Back Flip",
+    "Pc": "Up + Down",
+    "Playstation": "Triangle + X",
+    "Xbox": "Y + A"
+  },
+  {
+    "move": "Right Rodeo",
+    "Pc": "Left + Down",
+    "Playstation": "X + Circle",
+    "Xbox": "A + B"
+  },
+  {
+    "move": "Left Rodeo",
+    "Pc": "Down + Left",
+    "Playstation": "X + Square",
+    "Xbox": "A + X"
+  },
+  {
+    "move": "Right Cork",
+    "Pc": "Up + Right",
+    "Playstation": "Triangle + Circle",
+    "Xbox": "Y + B"
+  },
+  {
+    "move": "Left Cork",
+    "Pc": "Up + Left",
+    "Playstation": "Triangle + X",
+    "Xbox": "Y + X"
+  },
+  {
+    "move": "Right Cashroll",
+    "Pc": "Left + Down",
+    "Playstation": "Square + X",
+    "Xbox": "X + A"
+  },
+  {
+    "move": "Left Cashroll",
+    "Pc": "Right + Down",
+    "Playstation": "Circle + X",
+    "Xbox": "B + A"
+  },
+  {
+    "move": "Right Twister",
+    "Pc": "Left + Up",
+    "Playstation": "Square + Triangle",
+    "Xbox": "X + Y"
+  },
+  {
+    "move": "Left Twister",
+    "Pc": "Right + Up",
+    "Playstation": "Circle + Triangle",
+    "Xbox": "B + Y"
+  },
+
+  {
+    "move": "Can-Can Right",
+    "Pc": "Right + RS",
+    "Playstation": "Right + R2",
+    "Xbox": "Right + RT"
+  },
+  {
+    "move": "Can-Can Left",
+    "Pc": "Left + LS",
+    "Playstation": "Left + L2",
+    "Xbox": "Left + LT"
+  },
+  {
+    "move": "X-Up Right",
+    "Pc": "Up + RS",
+    "Playstation": "Up + R2",
+    "Xbox": "Up + RT"
+  },
+  {
+    "move": "X-Up Left",
+    "Pc": "Up + LS",
+    "Playstation": "Up + L2",
+    "Xbox": "Up + LT"
+  },
+  {
+    "move": "Nac-Nac Right",
+    "Pc": "Left + RS",
+    "Playstation": "Left + R2",
+    "Xbox": "Left + RT"
+  },
+  {
+    "move": "Nac-Nac Left",
+    "Pc": "Right + LS",
+    "Playstation": "Right + L2",
+    "Xbox": "Right + LT"
+  },
+  {
+    "move": "Whip Right",
+    "Pc": "Down + RS",
+    "Playstation": "Down + R2",
+    "Xbox": "Down + RT"
+  },
+  {
+    "move": "Whip Left",
+    "Pc": "Down + LS",
+    "Playstation": "Down + L2",
+    "Xbox": "Down + LT"
+  },
+  {
+    "move": "Table Right",
+    "Pc": "Right + LS + RS",
+    "Playstation": "Right + L2 + R2",
+    "Xbox": "Right + LT + RT"
+  },
+  {
+    "move": "Table Left",
+    "Pc": "Left + LS + RS",
+    "Playstation": "Left + L2 + R2",
+    "Xbox": "Left + LT + RT"
+  },
+  {
+    "move": "No Hands",
+    "Pc": "Up + LS + RS",
+    "Playstation": "Up + L2 + R2",
+    "Xbox": "Up + LT + RT"
+  },
+  {
+    "move": "Superman",
+    "Pc": "Down + LS + RS",
+    "Playstation": "Down + L2 + R2",
+    "Xbox": "Down + LT + RT"
+  },
+
+  {
+    "move": "One Hand Right",
+    "Pc": "Left + RS",
+    "Playstation": "Left + R2",
+    "Xbox": "Left + RT"
+  },
+  {
+    "move": "One Hand Left",
+    "Pc": "Left + LS",
+    "Playstation": "Left + L2",
+    "Xbox": "Left + LT"
+  },
+  {
+    "move": "Barspin Right",
+    "Pc": "Up + RS",
+    "Playstation": "Up + R2",
+    "Xbox": "Up + RT"
+  },
+  {
+    "move": "Barspin Left",
+    "Pc": "Up + LS",
+    "Playstation": "Up + L2",
+    "Xbox": "Up + LT"
+  },
+  {
+    "move": "Tobogan Right",
+    "Pc": "Right + RS",
+    "Playstation": "Right + R2",
+    "Xbox": "Right + RT"
+  },
+  {
+    "move": "Tobogan Left",
+    "Pc": "Right + LS",
+    "Playstation": "Right + L2",
+    "Xbox": "Right + LT"
+  },
+  {
+    "move": "No Foot Can Right",
+    "Pc": "Down + RS",
+    "Playstation": "Down + R2",
+    "Xbox": "Down + RT"
+  },
+  {
+    "move": "No Foot Can Left",
+    "Pc": "Down + LS",
+    "Playstation": "Down + L2",
+    "Xbox": "Down + LT"
+  },
+  {
+    "move": "Tailwhip Right",
+    "Pc": "Right + LS + RS",
+    "Playstation": "Right + L2 + R2",
+    "Xbox": "Right + LT + RT"
+  },
+  {
+    "move": "Tailwhip Left",
+    "Pc": "Left + LS + RS",
+    "Playstation": "Left + L2 + R2",
+    "Xbox": "Left + LT + RT"
+  },
+  {
+    "move": "Indian Air",
+    "Pc": "Down + LS + RS",
+    "Playstation": "Down + L2 + R2",
+    "Xbox": "Down + LT + RT"
+  },
+
+  {
+    "move": "Toxic Grab/Tailgrab",
+    "Pc": "Up + LS",
+    "Playstation": "Up + L2",
+    "Xbox": "Up + LT"
+  },
+  {
+    "move": "Inside Safety/Nosegrab",
+    "Pc": "Down + LS",
+    "Playstation": "Down + L2",
+    "Xbox": "Down + LT"
+  },
+  {
+    "move": "Critical Grab/Genie Grab",
+    "Pc": "Right + LS",
+    "Playstation": "Right + L2",
+    "Xbox": "Right + LT"
+  },
+  {
+    "move": "Phil Grab/Taipan",
+    "Pc": "Left + LS",
+    "Playstation": "Left + L2",
+    "Xbox": "Left + LT"
+  },
+  {
+    "move": "Cuban Grab/Weddle Grab",
+    "Pc": "Up + RS",
+    "Playstation": "Up + R2",
+    "Xbox": "Up + RT"
+  },
+  {
+    "move": "Nose Weddle Grab/Blunt Grab",
+    "Pc": "Down + RS",
+    "Playstation": "Down + R2",
+    "Xbox": "Down + RT"
+  },
+  {
+    "move": "Liu Kang Grab/Safety Grab",
+    "Pc": "Right + RS",
+    "Playstation": "Right + R2",
+    "Xbox": "Right + RT"
+  },
+  {
+    "move": "Seatbelt Grab/Japan Grab",
+    "Pc": "Left + RS",
+    "Playstation": "Left + R2",
+    "Xbox": "Left + RT"
+  },
+  {
+    "move": "Truck Driver Grab/Double Tail Grab",
+    "Pc": "Up + LS + RS",
+    "Playstation": "Up + L2 + R2",
+    "Xbox": "Up + LT + RT"
+  },
+  {
+    "move": "Venom/Rocketair Grab",
+    "Pc": "Down + LS + RS",
+    "Playstation": "Down + L2 + R2",
+    "Xbox": "Down + LT + RT"
+  },
+  {
+    "move": "Brebis Grab/Double Genie Grab",
+    "Pc": "Right + LS + RS",
+    "Playstation": "Right + L2 + R2",
+    "Xbox": "Right + LT + RT"
+  },
+  {
+    "move": "Octograb/Bow and Arrow Grab",
+    "Pc": "Left + LS + RS",
+    "Playstation": "Left + L2 + R2",
+    "Xbox": "Left + LT + RT"
+  },
+
+  {
+    "move": "Seatbelt/Japan Grab",
+    "Pc": "Up + LS",
+    "Playstation": "Up + L2",
+    "Xbox": "Up + LT"
+  },
+  {
+    "move": "Euromethod/Nosegrab",
+    "Pc": "Down + LS",
+    "Playstation": "Down + L2",
+    "Xbox": "Down + LT"
+  },
+  {
+    "move": "Melon Grab/Weddle Grab",
+    "Pc": "Right + LS",
+    "Playstation": "Right + L2",
+    "Xbox": "Right + LT"
+  },
+  {
+    "move": "Suitcase/Method Grab",
+    "Pc": "Left + LS",
+    "Playstation": "Left + L2",
+    "Xbox": "Left + LT"
+  },
+  {
+    "move": "Tucknee/Tailgrab",
+    "Pc": "Up + RS",
+    "Playstation": "Up + R2",
+    "Xbox": "Up + RT"
+  },
+  {
+    "move": "Crail Grab/Nuclear Method",
+    "Pc": "Down + RS",
+    "Playstation": "Down + R2",
+    "Xbox": "Down + RT"
+  },
+  {
+    "move": "Indy Grab/Stalefish Grab",
+    "Pc": "Right + RS",
+    "Playstation": "Right + R2",
+    "Xbox": "Right + RT"
+  },
+  {
+    "move": "Stiffy/Roastbeef Grab",
+    "Pc": "Left + RS",
+    "Playstation": "Left + R2",
+    "Xbox": "Left + RT"
+  },
+  {
+    "move": "Popair Grab/Bloody Dracula",
+    "Pc": "Up + LS + RS",
+    "Playstation": "Up + L2 + R2",
+    "Xbox": "Up + LT + RT"
+  },
+  {
+    "move": "Cookie Monster/Rocketair Grab",
+    "Pc": "Down + LS + RS",
+    "Playstation": "Down + L2 + R2",
+    "Xbox": "Down + LT + RT"
+  },
+  {
+    "move": "Truckdriver Grab/Drunk Driver Grab",
+    "Pc": "Right + LS + RS",
+    "Playstation": "Right + L2 + R2",
+    "Xbox": "Right + LT + RT"
+  },
+  {
+    "move": "Dracula Method/Holycrail Grab",
+    "Pc": "Left + LS + RS",
+    "Playstation": "Left + L2 + R2",
+    "Xbox": "Left + LT + RT"
+  }
+]
